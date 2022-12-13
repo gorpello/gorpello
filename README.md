@@ -1,10 +1,22 @@
 ## Hey, I’m @gorpello 👋
 
-![A profile picture of Gianluca Orpello](images/lm-gianluca-orpello.jpg)
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+
+    <div style="display: inline-block;">
+        <img src="images/lm-gianluca-orpello.jpg">
+		</pre>
+    </div>
+    
+    <div style="display: inline-block;">
 
 Hi, my name is Gianluca Orpello. 
 I am an **Apple Certified Trainer** and a freelance Mentor in Italy. I specialize in iOS app design and development, web app design, and API design.
 I also have knowledge in User Interaction, User Experience, and Project Management.
+
+    </div>
+</div>
+
+
 
 ```swift
 import SwiftUI
