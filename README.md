@@ -1,6 +1,6 @@
 ## Hey, I’m @gorpello 👋
 
-![A profile picture of Gianluca Orpello]()
+![A profile picture of Gianluca Orpello](images/lm-gianluca-orpello.jpg)
 
 Hi, my name is Gianluca Orpello. 
 I am an **Apple Certified Trainer** and a freelance Mentor in Italy. I specialize in iOS app design and development, web app design, and API design.
