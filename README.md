@@ -50,11 +50,11 @@ organising work on different projects, improving my analytical, critical thinkin
 
 ### 🏍️ More About Me
 
-#Apple Certified Trainer
-Faculty & Graduated @ #AppleDeveloperAcademy
-👨‍💻 Software Engineer
-📲 Apple Enthusiast
-🏍 Motorbike Lover.
+**Apple Certified Trainer** <br>
+Faculty & Graduated @ [Apple Developer Academy](https://www.developeracademy.unina.it/en/) <br>
+👨‍💻 Software Engineer <br>
+📲 Apple Enthusiast <br>
+🏍 Motorbike Lover. <br>
 
 - [If you need me](g.orpello@gmail.com) - No spam please 🙏
 - [My website](https://www.gianlucaorpello.com) - Need an update sorry 👀🥺🙄
