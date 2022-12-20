@@ -11,8 +11,10 @@ I also have knowledge in User Interaction, User Experience, and Project Manageme
 import SwiftUI
 
 struct DeveloperProfile: View {
+
     let name: String = "Gianluca Orpello"
     let title: String = "Coding Mentor"
+    
     let skills: [String] = [
       "Agile", "App Architecture", "Auto-Layout", "CLI tools with Swift", "Databases",
       "HTML/CSS", "Human Interface Guidelines", "JavaScript", "Public Speaking",
@@ -35,6 +37,7 @@ struct DeveloperProfile: View {
             }
         }
     }
+    
 }
 ```
 
