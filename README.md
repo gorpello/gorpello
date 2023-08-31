@@ -20,7 +20,7 @@ struct DeveloperProfile: View {
       "HTML/CSS", "Human Interface Guidelines", "JavaScript", "Public Speaking",
       "REST APIs", "Server Side Swift", "SpriteKit", "Storytelling", "Swift AWS Lambda Runtime",
       "Swift Playgrounds", "iOS", "ipadOS", "watchOS", "tvOS", "macOS", "WebKit",
-      "Swift", "UIKit", "SwiftUI", "GIT", "Privacy"
+      "Swift", "UIKit", "SwiftUI", "GIT", "Privacy", "And a Lot More..."
     ]
 
     var body: some View {
