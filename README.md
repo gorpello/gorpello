@@ -59,6 +59,7 @@ Faculty & Graduated @ [Apple Developer Academy](https://www.developeracademy.uni
 👨‍💻 Software Engineer <br>
 📲 Apple Enthusiast <br>
 🏍 Motorbike Lover. <br>
+⛵️ Amateur Sailor. <br>
 
 - [If you need me](g.orpello@gmail.com) - No spam please 🙏
 - [My website](https://www.gianlucaorpello.com) - Need an update sorry 👀🥺🙄
