@@ -2,7 +2,7 @@
 
 
 Hi, my name is Gianluca Orpello. 
-I am an **Apple Certified Trainer** and a freelance Mentor in Italy. I specialize in iOS app design and development, web app design, and API design.
+I am an **Apple Certified Trainer** and a Mentor in Italy. I specialize in iOS app design and development, web app design, and API design.
 I also have knowledge in User Interaction, User Experience, and Project Management.
 
 
